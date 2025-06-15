@@ -1,4 +1,5 @@
-✈️  Travel and Tourisim Application
+✈️  **Travel and Tourisim Application**
+
 A complete Java-based desktop application for managing travel bookings, customer details, hotel packages, and payment handling. Built using Swing for the frontend and JDBC for backend database operations.
 
 # Features
