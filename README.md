@@ -16,10 +16,15 @@ A complete Java-based desktop application for managing travel bookings, customer
 
 # Tech Stack
 Category -->	Technology
+
 Language -->	Java
+
 GUI	--> Java Swing
+
 Backend	--> JDBC
+
 Database -->	MySQL
+
 IDE	--> NetBeans
 
 
